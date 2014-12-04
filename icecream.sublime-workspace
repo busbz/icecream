@@ -63,13 +63,6 @@
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -191,9 +184,16 @@
 	},
 	"expanded_folders":
 	[
+		"/C/Stock/www/icecream"
 	],
 	"file_history":
 	[
+		"/C/Stock/www/icecream/save/backbone-generator/Gruntfile - Copy.js",
+		"/C/Stock/www/icecream/Gruntfile.js",
+		"/C/Stock/www/icecream/.gitignore",
+		"/C/Stock/www/icecream/README.md",
+		"/C/Stock/www/icecream/doc/notes.todo",
+		"/C/Stock/www/icecream/doc/todos/readme.md",
 		"/C/Stock/www/lab/yeoman/nusson/httpdocs/README.txt",
 		"/C/Stock/www/lab/yeoman/nusson/doc/notes.todo",
 		"/C/Stock/www/conf/aliases",
@@ -315,13 +315,7 @@
 		"/C/Stock/www/free/graphic/www/assets/stylesheets/app/typography.styl",
 		"/C/Stock/www/free/graphic/www/dist/public/stylesheets/style.css",
 		"/C/Stock/www/free/graphic/www/assets/stylesheets/app/chosen.styl",
-		"/C/Stock/www/free/graphic/www/assets/javascripts/app/view/graph/Line.coffee",
-		"/C/Stock/www/free/graphic/www/assets/javascripts/app/view/ui/Sentences.coffee",
-		"/C/Stock/www/free/graphic/www/assets/javascripts/app/view/ui/Filter.coffee",
-		"/C/Stock/www/free/graphic/www/README.md",
-		"/C/Stock/www/free/graphic/www/assets/javascripts/app/App.coffee",
-		"/C/Stock/www/free/graphic/www/assets/javascripts/main.coffee",
-		"/C/Stock/www/free/graphic/www/assets/javascripts/app/template/sentences.rtv"
+		"/C/Stock/www/free/graphic/www/assets/javascripts/app/view/graph/Line.coffee"
 	],
 	"find":
 	{
@@ -497,36 +491,18 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
 			]
 		}
 	],
@@ -547,11 +523,25 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.33,
+			0.66,
 			1.0
 		],
 		"rows":
@@ -614,8 +604,8 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 423.0,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
