@@ -1,0 +1,12 @@
+node_modules
+dist
+
+app/bower_components
+
+test/bower_components/
+test/temp
+
+.tmp
+.sass-cache
+.sublime-project
+.sublime-workspace
