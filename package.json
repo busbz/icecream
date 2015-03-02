@@ -1,36 +1,37 @@
 {
   "name": "generator-icecream",
-  "version": "0.0.0",
-  "description": "Yeoman generator",
-  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Scafold generator BADASS",
+  "license": "BSD",
+  "repository": "nusson/icecream",
+  "author": "Nicolas Husson",
   "main": "app/index.js",
-  "repository": "nusson/generator-icecream",
-  "author": {
-    "name": "nusson",
-    "email": "hello@nusson.ninja",
-    "url": "https://github.com/nusson"
-  },
+  "pricate": "true",
   "engines": {
-    "node": ">=0.10.0"
-  },
-  "scripts": {
-    "test": "mocha"
+    "node": ">=0.10.0",
+    "npm": ">=1.3"
   },
   "files": [
     "app"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "web",
+    "app",
+    "amd",
+    "front-end",
+    "ractive",
+    "backbone",
+    "stylus",
+    "jquery",
+    "gulp"
   ],
   "dependencies": {
-    "yeoman-generator": "^0.18.0",
-    "chalk": "^0.5.0",
-    "yosay": "^0.3.0"
-  },
-  "devDependencies": {
-    "mocha": "*"
   },
   "peerDependencies": {
-    "yo": ">=1.0.0"
+    "yo": ">=1.0.0",
+    "gulp": ">=3.5.0"
+  },
+  "devDependencies": {
   }
 }
