@@ -1,11 +1,1 @@
-node_modules
-temp
-dist
-.sass-cache
-app/bower_components
-.tmp/
-tests
-var
-data/log
-.sublime-project
-.sublime-workspace
+node_modules/
