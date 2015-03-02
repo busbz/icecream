@@ -7,7 +7,7 @@ Do not use now :)
 
 ## About
 
-Yeoman generator for a prety flexible but badass workflow
+Yeoman generator for a prety flexible but badass frontend workflow
 
 ## Current state
 
